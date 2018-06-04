@@ -18,11 +18,11 @@ body {
     height:100%;
 }
 
-h1 {
-    font-family: 'Fredoka One', serif;
+.tusharheader {
+    font-family: 'Roboto', serif;
     color:#ffff66;
     text-shadow:0px 0px 7px #000;
-    font-size:450%;
+    font-weight: 100;
     text-align:center;
     margin-top:10%;
 }

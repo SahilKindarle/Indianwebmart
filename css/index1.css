@@ -6,21 +6,13 @@
  * Made By MaterializeCSS.com
  */
 
-nav ul a,
-nav .brand-logo {
-  color: #ffffff;
-}
+* {
+        font-family: 'Raleway', sans-serif;
+    }
 
-p {
-  line-height: 2rem;
-}
-
-.sidenav-trigger {
-  color: #26a69a;
-}
 
 .parallax-container {
-  min-height: 380px;
+  min-height: 500px;
   line-height: 0;
   height: auto;
   color: rgba(255,255,255,.9);
@@ -55,3 +47,4 @@ p {
 footer.page-footer {
   margin: 0;
 }
+
